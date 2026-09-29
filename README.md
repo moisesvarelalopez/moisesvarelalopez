@@ -43,5 +43,5 @@ Available for remote positions and MSSP environments.
 
 ## Contact
 
-- LinkedIn: linkedin.com/in/your-profile
+- LinkedIn: linkedin.com/in/moisés-varela-lopez
 - Location: Costa Rica — open to remote work
