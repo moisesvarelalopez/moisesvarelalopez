@@ -35,7 +35,7 @@ Available for remote positions and MSSP environments.
 
 | Lab                        | Description                                                                 | Status      |
 |:---------------------------|:----------------------------------------------------------------------------|:------------|
-| SSH Attack and Defense      | Simulated SSH brute-force attack. Detected failed authentication patterns, blocked attacker IP, hardened SSH configuration | Complete    |
+| [SSH Attack and Defense](https://github.com/moisesvarelalopez/soc-investigation-ssh-bruteforce) | Simulated SSH brute-force attack. Detected failed authentication patterns, blocked attacker IP, hardened SSH configuration | Complete    |
 | Network Traffic Analysis   | Analysis of malicious .pcap files using Wireshark. Identification of C2 communication, port scanning patterns, and IOCs | In progress |
 | Sentinel Detection Rules   | Custom KQL detection rules in Microsoft Sentinel for lateral movement, privilege escalation, and persistence techniques | In progress |
 
